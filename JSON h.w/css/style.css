@@ -1,0 +1,12 @@
+.counter {
+    min-width: 200px;
+    min-height: 30px;
+  }
+  
+  .plus, .minus {
+    min-width: 30px;
+    min-height: 30px;
+    margin: 0 5px;
+    padding: 0;
+    
+  }
